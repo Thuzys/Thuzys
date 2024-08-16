@@ -1,13 +1,11 @@
-## Hi there 👋
+##  Hello, I'm Arthur Oliveira 
 
-I'm a student from Isel.
+I'm a third-year Software Engineering student at ISel, passionate about developing innovative software solutions and exploring new technologies.
 
 ## Skills
-- Kotlin
-- Java
-- JavaScript
-- PostgreSQL
-
-## Contact Me
-- Email: [arthurcnoliveira@gmail.com]
-- LinkedIn: [www.linkedin.com/in/arthur-cesar-oliveira-681643184]
+- Programming Languages: 
+  - Kotlin
+  - Java
+  - JavaScript
+  - PostgreSQL
+- Tools: Git, IntelIJ, VSCode
