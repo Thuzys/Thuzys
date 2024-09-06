@@ -8,5 +8,8 @@ I'm a third-year Software Engineering student at [ISel](https://www.isel.pt), pa
   - Java
   - C
   - JavaScript
+- DataBase:
   - PostgreSQL
+  - MongoDB
+  - ElasticSearch
 - Tools: Git, IntelIJ, VSCode
