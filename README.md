@@ -7,15 +7,9 @@
     <p>
       I'm a third-year Software Engineering student at <a href="https://www.isel.pt">Isel</a>, passionate about developing innovative software solutions and exploring new technologies.
     </p>
-    <picture>
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Thuzys&show_icons=true&theme=tokyonight"
-        />
-        <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Thuzys&show_icons=true"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=Thuzys&show_icons=true"/>
-    </picture>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Thuzys&show_icons=true&theme=tokyonight&layout=compact&include_all_commits" alt="Thuzys" />
+    </p>
 </div>
 
 <br>
@@ -24,15 +18,9 @@
     <h1 align="center">
       Skills
     </h1>
-    <picture>
-      <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thuzys&layout=compact&theme=tokyonight"
-      >
-      <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Thuzys&layout=compact"
-      >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thuzys&layout=compact"/>
-    </picture>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thuzys&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bernardope" height="192px"/>
+      </p>
 </div>
 <br>
 <div 
