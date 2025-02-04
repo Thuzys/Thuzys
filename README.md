@@ -37,7 +37,7 @@
 
   <p align="center">
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,idea,vscode,gradle,npm,nodejs&perline=3">
+    <img src="https://skillicons.dev/icons?i=git,idea,vscode,gradle,npm,nodejs,docker&perline=4">
   </p>
 
   <p align="center">
