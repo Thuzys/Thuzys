@@ -42,7 +42,7 @@
 
   <p align="center">
     <h3>Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=spring,express,react,webpack&perline=3">
+    <img src="https://skillicons.dev/icons?i=spring,express,react,webpack,tailwind,vite&perline=3">
   </p>
 </div>
 
